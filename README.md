@@ -1,2 +1,3 @@
-# trees
-Collection of tree data structures
+# Trees
+Collection of tree data structures.
+Note: source code does not come with docstrings.
